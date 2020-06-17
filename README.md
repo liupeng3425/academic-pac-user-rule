@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/liupeng3425/academic-pac-user-rule)
+
 # Academic PAC user rule
 Academic PAC user rule preventing academic websites proxied by VPNs.
 
