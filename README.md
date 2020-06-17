@@ -6,7 +6,7 @@ Academic PAC user rule preventing academic websites proxied by VPNs.
 The academic resources brought to you by your institution/universities, are usually identified by your IP. When you use a proxy to access these resources, the resource providers might not recognize your organization.
 
 ## How to use?
-Append the content in the academic `academic user rule.txt` to your user rule config file.
+Append the content in the `academic user rule.txt` to your user rule config file.
 
 ![image](https://s1.ax1x.com/2020/06/17/NAIIXj.md.png)
 
