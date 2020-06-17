@@ -1,0 +1,23 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+! force use proxy：
+||google.com
+||*.google.com
+
+! DO NOT use proxy：
+@@baidu.com
+@@*.baidu.com
+
+! Springer
+@@springer.com
+! Nature
+@@nature.com
+! Elsevier-ScienceDirect
+@@sciencedirect.com
+! elsevier
+@@elsevier.com
+! ACM digital lib
+@@acm.org
+! IEEE xplore
+@@ieeexplore.ieee.org
