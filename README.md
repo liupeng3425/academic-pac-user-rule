@@ -13,4 +13,4 @@ Append the content in the `academic user rule.txt` to your user rule config file
 ![image](https://s1.ax1x.com/2020/06/17/NAIIXj.md.png)
 
 ## Contribute to this project?
-Please make pull requests to this repo.
+Please create pull requests to this repo.
