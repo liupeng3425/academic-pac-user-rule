@@ -7,7 +7,8 @@ The academic resources brought to you by your institution/universities, are usua
 
 ## How to use?
 Append the content in the academic `academic user rule.txt` to your user rule config file.
-![eg](https://s1.ax1x.com/2020/06/17/NAIIXj.md.png)
+
+![image](https://s1.ax1x.com/2020/06/17/NAIIXj.md.png)
 
 ## Contribute to this project?
 Please make pull requests to this repo.
