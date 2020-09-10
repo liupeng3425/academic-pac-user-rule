@@ -1,4 +1,6 @@
 ![](https://img.shields.io/github/license/liupeng3425/academic-pac-user-rule)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 
 # Academic PAC user rule
 Academic PAC user rule preventing academic websites proxied by VPNs.
